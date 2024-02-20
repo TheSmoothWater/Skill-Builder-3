@@ -79,6 +79,7 @@ public class PowerPill
         this.name = name;
     }
 
+
     public String toString()
     {
         return "PowerPill " + name + " = " + power;
